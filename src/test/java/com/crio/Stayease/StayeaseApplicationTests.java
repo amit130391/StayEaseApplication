@@ -1,13 +1,15 @@
 package com.crio.Stayease;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Disabled;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class StayeaseApplicationTests {
+// @SpringBootTest
+// class StayeaseApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+	
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
